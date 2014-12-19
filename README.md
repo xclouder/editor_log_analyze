@@ -4,6 +4,7 @@ editor_log_analyze
 这是一个分析Unity编译后Editor.log的工具，目前有三个模块：
 1.AssetsSizeAnalyze
 这个模块分析资源包大小，列出app中各资源占用情况，如：
+
 Textures      0.0 kb	 0.0%
 
 Meshes        0.0 kb	 0.0%
